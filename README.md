@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nikki!
-- 👀 I’m interested in harry styles
-- 🌱 I’m currently (not) learning 
-- 💞️ I’m looking to collaborate on c#
+- 👀 I’m interested in software engineering and project management
+- 🌱 I’m currently enrolled in Master of Science in Information Technology
+- 💞️ I’m looking to collaborate on C#, HTML/CSS, SQL Server, and SAP
 - 📫 How to reach me linkedin.com/in/nicole-beatriz-ganzon-a4b377319
 
 <!---
